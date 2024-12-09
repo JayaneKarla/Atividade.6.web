@@ -9,4 +9,4 @@ for (let i = 1; i <= 20; i++) {
 
 let mediaDasIdades = somaDasIdades/20;
 
-alert("A soma de todas as idades é igual a : " + mediaDasIdades);
+alert("A media de todas as idades é igual a : " + mediaDasIdades);
